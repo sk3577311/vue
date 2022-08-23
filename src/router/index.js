@@ -8,7 +8,7 @@ import MyLogin from "@/components/MyLogin.vue";
  
   const routes = [
   {
-    path: '/',
+    path: '/home',
     name: 'home',
     component: HomeApp,
   },

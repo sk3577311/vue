@@ -12,9 +12,9 @@
             </div>
         </div>
     </div>
-    <div class="container">
+    <!-- <div class="container">
         <div class="row">
-            <div class="col-sm-3 offset-sm-1">
+            <div class="col-sm-4">
                 <div class="card mr-auto mt-5 shadow-lg">
                     <div class="card-header border-bottom-0 p-0">
                         <p class="h3 text-center bg-danger p-2 text-white">Angular JS</p>
@@ -39,7 +39,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 offset-sm-1">
+            <div class="col-sm-4">
                 <div class="card mr-auto mt-5 shadow-lg">
                     <div class="card-header border-bottom-0 p-0">
                         <p class="h3 text-center bg-primary p-2 text-white">React JS</p>
@@ -64,7 +64,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 offset-sm-1">
+            <div class="col-sm-4">
                 <div class="card mr-auto mt-5 shadow-lg">
                     <div class="card-header border-bottom-0 p-0">
                         <p class="h3 text-center bg-success p-2 text-white">Vue JS</p>
@@ -90,5 +90,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
+
 </template>
+
